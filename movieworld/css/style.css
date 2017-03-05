@@ -1,0 +1,49 @@
+.header{
+    position: relative;
+    float: left;
+    left: 15.00%;
+    width: 70.00%;
+    /*background-color: #f4f4f4;*/
+    text-align: center;
+}
+.wrapper{
+    position: relative;
+    float: left;
+    left: 15.00%;
+    width: 70.00%;
+    background-color: #cccccc
+}
+.left{
+    position: relative;
+    float: left;
+    left: 0.00%;
+    width: 50.00%;
+    /*background-color: #ccccff*/
+}
+.right{
+    position: relative;
+    float: right;
+    right: 0.00%;
+    width: 50.00%;
+    /*background-color: #ccccff*/
+}
+.footer{
+    position: relative;
+    float: left;
+    left: 15.00%;
+    width: 70.00%;
+    /*background-color: #cfcfcf*/
+}
+body {
+    border-width: 0px;
+    padding: 0px;
+    margin: 0px;
+    font-size: 90%;
+    background-color: #e7e7de
+}
+.game {
+    padding: 15px;
+}
+label {
+    vertical-align: top;
+}
