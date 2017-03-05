@@ -98,7 +98,7 @@ div.desc {
 
 <?php 
 require_once 'intermediate.php';
-$hangman = CDSHAH\Hangman::getInstance(array('JOHN', 'JOHNNY', 'TOBEY', 'BRADD', 'CHRISTIAN', 'BEN'), 10);
+$hangman = CDSHAH\Hangman::getInstance(array('JOHN', 'JOHNNY', 'TOBEY', 'BRADD', 'CHRISTIAN', 'CHRISTOPHER'), 10);
 $hangman->run();
 ?>
 <!DOCTYPE html>
